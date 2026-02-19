@@ -1,3 +1,4 @@
+//apenas testando
 let listaDeNumerosSorteados = [];
 let valorMaximo = 10;
 let numeroSecreto = gerarNumeroAleatorio();
