@@ -1,5 +1,6 @@
+//novo teste
 let listaDeNumerosSorteados = [];
-let valorMaximo = 1000;
+let valorMaximo = 100;
 let numeroSecreto = gerarNumeroAleatorio();
 let tentativas = 1;
 exibirTextoNaTela("h1", "Jogo do número secreto!");
